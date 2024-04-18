@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dragon11mine
-- 👀 Web Developement
-- 🌱 PHP and MySQL
+- 👀 Android development 
+- 🌱 PHP, MySQL, JS und Kotlin
 - 💞️ I’m looking to collaborate on nothing soon
 - 📫 How to reach me jonathan.janssen7@protonmail.com
 
